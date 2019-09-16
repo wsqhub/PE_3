@@ -1,5 +1,7 @@
 Good Evening class!
-
+ 
+ William Querrie - wsq01375
+ 
 For tonight's in class exercise, we are going to focus around how to use git for Software Configuration Management (SCM).
 
 Your assignment is to:
